@@ -27,37 +27,37 @@
 2110992029|7a3d2c04||Silny Atak - obrażenia [*]
 2110992030|a3e34c39||Absorbcja obrażeń [*]
 2110992034|40aed692||Szansa na atak krytyczny - Bestie [*]
-2110992035|c8957121||Szansa na atak krytyczny - Przeklęci [*]
+2110992035|c8957121||Szansa na atak krytyczny - Istoty przeklęte [*]
 2110992036|79a23d6e||Szansa na atak krytyczny - Draconidy [*]
 2110992037|d33fe160||Szansa na atak krytyczny - Człekokształtne [*]
 2110992038|f261a80b||Szansa na atak krytyczny - Hybrydy [*]
 2110992039|97466e95||Szansa na atak krytyczny - Insektoidy [*]
-2110992040|4bfdf9ea||Szansa na atak krytyczny - Żywiołaki [*]
-2110992041|016d02ed||Szansa na atak krytyczny - Nekrofagi [*]
+2110992040|4bfdf9ea||Szansa na atak krytyczny - Istoty magiczne [*]
+2110992041|016d02ed||Szansa na atak krytyczny - Trupojady [*]
 2110992042|9c73a4a6||Szansa na atak krytyczny - Relikty [*]
 2110992043|c3702fb9||Szansa na atak krytyczny - Zjawy [*]
 2110992044|cd868a1a||Szansa na atak krytyczny - Ogrowate [*]
 2110992045|42229941||Szansa na atak krytyczny - Wampiry [*]
 2110992046|4fa6c42d||Obrażenia ataku krytycznego - Bestie [*]
-2110992047|df4cf77c||Obrażenia ataku krytycznego - Przeklęci [*]
+2110992047|df4cf77c||Obrażenia ataku krytycznego - Istoty przeklęte [*]
 2110992048|f7d09609||Obrażenia ataku krytycznego - Draconidy [*]
 2110992049|810bfc7b||Obrażenia ataku krytycznego - Człowiek [*]
 2110992050|6b0ad6e6||Obrażenia ataku krytycznego - Hybrydy [*]
 2110992051|6adf0df0||Obrażenia ataku krytycznego - Insektoidy [*]
-2110992052|0cf40585||Obrażenia ataku krytycznego - Żywiołaki [*]
-2110992053|69eb0048||Obrażenia ataku krytycznego - Nekrofagi [*]
+2110992052|0cf40585||Obrażenia ataku krytycznego - Istoty magiczne [*]
+2110992053|69eb0048||Obrażenia ataku krytycznego - Trupojady [*]
 2110992054|2e15b341||Obrażenia ataku krytycznego - Relikty [*]
 2110992055|17546414||Obrażenia ataku krytycznego - Zjawy [*]
 2110992056|b4fbb1b5||Obrażenia ataku krytycznego - Ogrowate [*]
 2110992057|d123879c||Obrażenia ataku krytycznego - Wampiry [*]
 2110992058|c8d4450c||Redukcja odporności na obrażenia - Bestie [*]
-2110992059|4b1b4cdd||Redukcja odporności na obrażenia - Przeklęci [*]
+2110992059|4b1b4cdd||Redukcja odporności na obrażenia - Istoty przeklęte [*]
 2110992060|da69abb0||Redukcja odporności na obrażenia - Draconidy [*]
 2110992061|83b5dcfe||Redukcja odporności na obrażenia - Człowiek [*]
 2110992062|5da28e33||Redukcja odporności na obrażenia - Hybrydy [*]
 2110992063|ca4463e9||Redukcja odporności na obrażenia - Insektoidy [*]
-2110992064|d14fa0b4||Redukcja odporności na obrażenia - Żywiołaki [*]
-2110992065|8b85ee91||Redukcja odporności na obrażenia - Nekrofagi [*]
+2110992064|d14fa0b4||Redukcja odporności na obrażenia - Istoty magiczne [*]
+2110992065|8b85ee91||Redukcja odporności na obrażenia - Trupojady [*]
 2110992066|0ecc4f78||Redukcja odporności na obrażenia - Relikty [*]
 2110992067|64e2d545||Redukcja odporności na obrażenia - Zjawy [*]
 2110992068|111c7e84||Redukcja odporności na obrażenia - Ogrowate [*]
@@ -162,61 +162,61 @@
 2110992176|c84675ba||Target is slowed down by $I$% while Geralt is casting Axii. Increases the effectiveness of Axii in dialogues.
 2110992177|c84675bb||Target is slowed down by $I$% while Geralt is casting Axii. Failed Axii attempts stagger the target. Increases the effectiveness of Axii in dialogues.
 2110992178|56747c57||Accelerates Vitality regeneration. Extended duration. Vitality regeneration does not pause upon receiving damage.
-2110992179|b9aff26b||Your over encumbrance is too high
-2110992180|b66cd6f6||Sink the boat if over encumbered
-2110992181|b48e9483||Over encumbrance threshold to sink the boat (%)
-2110992182|cccbd483||Switch mode
-2110992183|2bf0877e||Reduce item encumbrance (%)
-2110992184|d0b08830||Player inventory mode
-2110992185|973a8234||Stash mode
-2110992186|c7b4d16e||Mixed inventory mode
-2110992187|7e63c963||Synchronized mode
-2110992188|e71d7c90||Geralt's maximum Vitality is increased with each foe killed.
-2110992189|d3510d11||Contains silver splinters that temporarily prevent monsters from transforming and regenerating.
-2110992190|d3510d12||Contains silver splinters that temporarily prevent monsters from transforming and regenerating. Extended duration.
-2110992191|d3510d13||Contains silver splinters that permanently prevent monsters from transforming and regenerating.
-2110992192|08eace65||Increases attack effectiveness against insectoids. Effectiveness decreases with oil rubbing off the blade.
-2110992193|08eace66||Increases attack effectiveness against insectoids. Effectiveness decreases with oil rubbing off the blade.
-2110992194|08eace67||Increases attack effectiveness against insectoids. Effectiveness decreases with oil rubbing off the blade.
-2110992195|3a67f159||Increases attack effectiveness against cursed foes. Effectiveness decreases with oil rubbing off the blade.
-2110992196|3a67f15a||Increases attack effectiveness against cursed foes. Effectiveness decreases with oil rubbing off the blade.
-2110992197|3a67f15b||Increases attack effectiveness against cursed foes. Effectiveness decreases with oil rubbing off the blade.
-2110992198|65067e25||Increases attack effectiveness against necrophages. Effectiveness decreases with oil rubbing off the blade.
-2110992199|65067e26||Increases attack effectiveness against necrophages. Effectiveness decreases with oil rubbing off the blade.
-2110992200|65067e27||Increases attack effectiveness against necrophages. Effectiveness decreases with oil rubbing off the blade.
-2110992201|7b1c29c3||Increases attack effectiveness against hybrids. Effectiveness decreases with oil rubbing off the blade.
-2110992202|7b1c29c4||Increases attack effectiveness against hybrids. Effectiveness decreases with oil rubbing off the blade.
-2110992203|7b1c29c5||Increases attack effectiveness against hybrids. Effectiveness decreases with oil rubbing off the blade.
-2110992204|88e86911||Increases attack effectiveness against vampires. Effectiveness decreases with oil rubbing off the blade.
-2110992205|88e86912||Increases attack effectiveness against vampires. Effectiveness decreases with oil rubbing off the blade.
-2110992206|88e86913||Increases attack effectiveness against vampires. Effectiveness decreases with oil rubbing off the blade.
-2110992207|aed490e2||Increases attack effectiveness against elementa. Effectiveness decreases with oil rubbing off the blade.
-2110992208|aed490e3||Increases attack effectiveness against elementa. Effectiveness decreases with oil rubbing off the blade.
-2110992209|aed490e4||Increases attack effectiveness against elementa. Effectiveness decreases with oil rubbing off the blade.
-2110992210|d11afcde||Increases attack effectiveness against humans, elves, dwarves and halflings. Effectiveness decreases with oil rubbing off the blade.
-2110992211|d11afcdf||Increases attack effectiveness against humans, elves, dwarves and halflings. Effectiveness decreases with oil rubbing off the blade.
-2110992212|d11afce0||Increases attack effectiveness against humans, elves, dwarves and halflings. Effectiveness decreases with oil rubbing off the blade.
-2110992213|ea1a3189||Increases attack effectiveness against specters. Effectiveness decreases with oil rubbing off the blade.
-2110992214|ea1a318a||Increases attack effectiveness against specters. Effectiveness decreases with oil rubbing off the blade.
-2110992215|ea1a318b||Increases attack effectiveness against specters. Effectiveness decreases with oil rubbing off the blade.
-2110992216|ef649cfe||Increases attack effectiveness against draconids. Effectiveness decreases with oil rubbing off the blade.
-2110992217|ef649cff||Increases attack effectiveness against draconids. Effectiveness decreases with oil rubbing off the blade.
-2110992218|ef649d00||Increases attack effectiveness against draconids. Effectiveness decreases with oil rubbing off the blade.
-2110992219|f8b46c36||Increases attack effectiveness against relicts. Effectiveness decreases with oil rubbing off the blade.
-2110992220|f8b46c37||Increases attack effectiveness against relicts. Effectiveness decreases with oil rubbing off the blade.
-2110992221|1ff07bf8||Increases attack effectiveness against relicts. Effectiveness decreases with oil rubbing off the blade.
-2110992222|7753393f||Increases attack effectiveness against ogroids. Effectiveness decreases with oil rubbing off the blade.
-2110992223|77533940||Increases attack effectiveness against ogroids. Effectiveness decreases with oil rubbing off the blade.
-2110992224|77533941||Increases attack effectiveness against ogroids. Effectiveness decreases with oil rubbing off the blade.
-2110992225|c0218f12||Increases attack effectiveness against ogroids. Effectiveness decreases with oil rubbing off the blade.
-2110992226|c0218f13||Increases attack effectiveness against ogroids. Effectiveness decreases with oil rubbing off the blade.
-2110992227|c0218f14||Increases attack effectiveness against ogroids. Effectiveness decreases with oil rubbing off the blade.
-2110992228|dd8e2b22||Increases attack effectiveness against beasts. Effectiveness decreases with oil rubbing off the blade.
-2110992229|dd8e2b23||Increases attack effectiveness against beasts. Effectiveness decreases with oil rubbing off the blade.
-2110992230|dd8e2b24||Increases attack effectiveness against beasts. Effectiveness decreases with oil rubbing off the blade.
-2110992231|de026195||Clears Toxicity and cancels all active potion effects.
-2110992232|de026196||Clears Toxicity and cancels all active potion effects.
-2110992233|de026197||Clears Toxicity and cancels all active potion effects.
+2110992179|b9aff26b||Twoje przeciążenie jest zbyt duże [*]
+2110992180|b66cd6f6||Zatop łódź przy przeciążeniu [*]
+2110992181|b48e9483||Limit przeciążenia do zatopienia łodzi (%) [*]
+2110992182|cccbd483||Zmień tryb [*]
+2110992183|2bf0877e||Zmniejsz obciążenie przedmiotów (%) [*]
+2110992184|d0b08830||Tryb ekwipunku bohatera [*]
+2110992185|973a8234||Tryb schowka [*]
+2110992186|c7b4d16e||Tryb mieszany [*]
+2110992187|7e63c963||Tryb synchronizowany [*]
+2110992188|e71d7c90||Zabicie przeciwnika zwiększa maksymalną żywotność do czasu medytacji lub szybkiej podróży. [*]
+2110992189|d3510d11||Zwiera opiłki srebra, które czasowo powstrzymują przemiany potworów oraz regenerację. [*]
+2110992190|d3510d12||Zwiera opiłki srebra, które czasowo powstrzymują przemiany potworów oraz regenerację. Wydłużony czas trwania. [*]
+2110992191|d3510d13||Zwiera opiłki srebra, które na zawsze powstrzymują przemiany potworów oraz regenerację. [*]
+2110992192|08eace65||Zwiększa efektywność ataku względem Insektoidów. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992193|08eace66||Zwiększa efektywność ataku względem Insektoidów. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992194|08eace67||Zwiększa efektywność ataku względem Insektoidów. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992195|3a67f159||Zwiększa efektywność ataku względem Istot przeklętych. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992196|3a67f15a||Zwiększa efektywność ataku względem Istot przeklętych. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992197|3a67f15b||Zwiększa efektywność ataku względem Istot przeklętych. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992198|65067e25||Zwiększa efektywność ataku względem Trupojadów. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992199|65067e26||Zwiększa efektywność ataku względem Trupojadów. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992200|65067e27||Zwiększa efektywność ataku względem Trupojadów. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992201|7b1c29c3||Zwiększa efektywność ataku względem Hybryd. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992202|7b1c29c4||Zwiększa efektywność ataku względem Hybryd. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992203|7b1c29c5||Zwiększa efektywność ataku względem Hybryd. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992204|88e86911||Zwiększa efektywność ataku względem Wampirów. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992205|88e86912||Zwiększa efektywność ataku względem Wampirów. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992206|88e86913||Zwiększa efektywność ataku względem Wampirów. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992207|aed490e2||Zwiększa efektywność ataku względem Istot magicznych. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992208|aed490e3||Zwiększa efektywność ataku względem Istot magicznych. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992209|aed490e4||Zwiększa efektywność ataku względem Istot magicznych. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992210|d11afcde||Zwiększa efektywność ataku względem Ludzi, Eflów, Krasnoludów oraz Niziołków. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992211|d11afcdf||Zwiększa efektywność ataku względem Ludzi, Eflów, Krasnoludów oraz Niziołków. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992212|d11afce0||Zwiększa efektywność ataku względem Ludzi, Eflów, Krasnoludów oraz Niziołków. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992213|ea1a3189||Zwiększa efektywność ataku względem Upiorów. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992214|ea1a318a||Zwiększa efektywność ataku względem Upiorów. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992215|ea1a318b||Zwiększa efektywność ataku względem Upiorów. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992216|ef649cfe||Zwiększa efektywność ataku względem Drakonidów. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992217|ef649cff||Zwiększa efektywność ataku względem Drakonidów. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992218|ef649d00||Zwiększa efektywność ataku względem Drakonidów. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992219|f8b46c36||Zwiększa efektywność ataku względem Reliktów. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992220|f8b46c37||Zwiększa efektywność ataku względem Reliktów. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992221|1ff07bf8||Zwiększa efektywność ataku względem Reliktów. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992222|7753393f||Zwiększa efektywność ataku względem Ogrowatych. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992223|77533940||Zwiększa efektywność ataku względem Ogrowatych. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992224|77533941||Zwiększa efektywność ataku względem Ogrowatych. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992225|c0218f12||Zwiększa efektywność ataku względem Ogrowatych. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992226|c0218f13||Zwiększa efektywność ataku względem Ogrowatych. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992227|c0218f14||Zwiększa efektywność ataku względem Ogrowatych. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992228|dd8e2b22||Zwiększa efektywność ataku względem Bestii. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992229|dd8e2b23||Zwiększa efektywność ataku względem Bestii. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992230|dd8e2b24||Zwiększa efektywność ataku względem Bestii. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
+2110992231|de026195||Usuwa zatrucie eliksirami i efekty działania eliksirów. [*]
+2110992232|de026196||Usuwa zatrucie eliksirami i efekty działania eliksirów. [*]
+2110992233|de026197||Usuwa zatrucie eliksirami i efekty działania eliksirów. [*]
 2110992234|f8b46c38||Increases attack effectiveness against relicts.
 2110992235|874e9f88||Grants sight in total darkness and immunity to hypnosis. Extended duration.
 2110992237|fe608837||Inflicts shrapnel damage to foes within its explosion radius. Deals fire damage. Enhanced effect. Destroys enemy shield. Destroys monster nests.
