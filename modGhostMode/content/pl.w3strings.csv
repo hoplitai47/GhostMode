@@ -1,83 +1,83 @@
 ;meta[language=en]
 ; id      |key(hex)|key(str)| text
-2110992000|4d5f8b0c||Mods
-2110992001|818b6a6e||Ghost Mode
-2110992002|205aa5f5||Enemy health modifier
-2110992003|a570c302||Enemy damage modifier
-2110992004|be5d891f||Enemies scaling
-2110992005|c33062be||None
-2110992006|cffa3a49||Upscale
-2110992007|a2c796ff||Match
-2110992013|cdb77880||Frost resistance
-2110992014|99a2fd83||Enemy damage resistance reduction
-2110992015|c4ea0ecf||Potion duration
-2110992016|c332a7b0||Soft upscaling
-2110992017|1662935c||Damage per hit (silver)
-2110992018|4f1d703c||Damage per hit (steel)
-2110992019|f38f5b36||Firestream damage per sec
-2110992020|6a994712||Magic Traps
-2110992021|cc57bcc3||Magic Trap damage
-2110992022|60b53abe||Magic Turret duration
-2110992023|8594f9d5||Magic Turret charges
-2110992024|1e6cbb19||Magic Turret damage
-2110992025|ee530dcc||Returned damage
-2110992026|e379a123||Active shield damage absorption
-2110992027|27282d9d||Axii chance
-2110992028|8566fddf||Fast attack power
-2110992029|7a3d2c04||Strong attack power
-2110992030|a3e34c39||Damage absorption
-2110992034|40aed692||Critical hit chance versus Beasts
-2110992035|c8957121||Critical hit chance versus Cursed Ones
-2110992036|79a23d6e||Critical hit chance versus Draconids
-2110992037|d33fe160||Critical hit chance versus Humans
-2110992038|f261a80b||Critical hit chance versus Hybrids
-2110992039|97466e95||Critical hit chance versus Insectoids
-2110992040|4bfdf9ea||Critical hit chance versus Elementa
-2110992041|016d02ed||Critical hit chance versus Necrophages
-2110992042|9c73a4a6||Critical hit chance versus Relicts
-2110992043|c3702fb9||Critical hit chance versus Specters
-2110992044|cd868a1a||Critical hit chance versus Ogroids
-2110992045|42229941||Critical hit chance versus Vampires
-2110992046|4fa6c42d||Critical hit power versus Beasts
-2110992047|df4cf77c||Critical hit power versus Cursed Ones
-2110992048|f7d09609||Critical hit power versus Draconids
-2110992049|810bfc7b||Critical hit power versus Humans
-2110992050|6b0ad6e6||Critical hit power versus Hybrids
-2110992051|6adf0df0||Critical hit power versus Insectoids
-2110992052|0cf40585||Critical hit power versus Elementa
-2110992053|69eb0048||Critical hit power versus Necrophages
-2110992054|2e15b341||Critical hit power versus Relicts
-2110992055|17546414||Critical hit power versus Specters
-2110992056|b4fbb1b5||Critical hit power versus Ogroids
-2110992057|d123879c||Critical hit power versus Vampires
-2110992058|c8d4450c||Damage resist reduction versus Beasts
-2110992059|4b1b4cdd||Damage resistance reduction versus Cursed Ones
-2110992060|da69abb0||Damage resistance reduction versus Draconids
-2110992061|83b5dcfe||Damage resistance reduction versus Humans
-2110992062|5da28e33||Damage resistance reduction versus Hybrids
-2110992063|ca4463e9||Damage resistance reduction versus Insectoids
-2110992064|d14fa0b4||Damage resistance reduction versus Elementa
-2110992065|8b85ee91||Damage resistance reduction versus Necrophages
-2110992066|0ecc4f78||Damage resistance reduction versus Relicts
-2110992067|64e2d545||Damage resistance reduction versus Specters
-2110992068|111c7e84||Damage resistance reduction versus Ogroids
-2110992069|5a3c18bd||Damage resistance reduction versus Vampires
-2110992070|d25344ee||Attack Power versus Humans
-2110992071|da7e5ba4||Each piece of light armor increases critical hit chance by $S$% and critical hit power by $S$%.
-2110992072|da7e5ba6||Each piece of heavy armor increases maximum Vitality by $S$%, damage dealt by melee attacks grants additional $S$% Adrenaline Points per each heavy armor piece.
-2110992073|163a8e78||Increases burning chance by $I$%.
-2110992074|3c4a6af2||Strong attack damage
-2110992075|5806ca6e||Strong attack critical damage
-2110992076|69d8dd89||Fast attack critical damage
-2110992077|89dfeac9||Fast attack critical hit chance
-2110992078|bc4297c4||Strong attack critical hit chance
-2110992079|d23992f7||Fast attack damage
-2110992080|2e06698e||Strong attack critical damage
-2110992081|3375c4a9||Fast attack critical damage
-2110992082|73d42fa9||Fast attack critical hit chance
-2110992083|b08bd7d2||Strong attack damage
-2110992084|c7b0b7d7||Fast attack damage
-2110992085|fa3924a4||Strong attack critical hit chance
+2110992000|4d5f8b0c||Mods [*]
+2110992001|818b6a6e||Ghost Mode [*]
+2110992002|205aa5f5||Mnożnik żywotności przeciwnika [*]
+2110992003|a570c302||Mnożnik siły ataku przeciwnika [*]
+2110992004|be5d891f||Skalowania przeciwników [*]
+2110992005|c33062be||Brak [*]
+2110992006|cffa3a49||Upscale [*]
+2110992007|a2c796ff||Przyrównaj (Match) [*]
+2110992013|cdb77880||Odporność na chłód [*]
+2110992014|99a2fd83||Obniżenie odporności na obrażenia przeciwnika [*]
+2110992015|c4ea0ecf||Czas działania eliksiru [*]
+2110992016|c332a7b0||Soft upscaling [*]
+2110992017|1662935c||Obrażenia per atak (srebro) [*]
+2110992018|4f1d703c||Obrażenia per atak (stal) [*]
+2110992019|f38f5b36||Firestream damage per sec [*]
+2110992020|6a994712||Magiczne pułapki [*]
+2110992021|cc57bcc3||Obrażenia magicznej pułaki [*]
+2110992022|60b53abe||Magiczny strażnik - czas trwania [*]
+2110992023|8594f9d5||Magiczny strażnik - ładunki [*]
+2110992024|1e6cbb19||Magiczny strażnik - obrażenia [*]
+2110992025|ee530dcc||Odbite obrażenia [*]
+2110992026|e379a123||Redukcja obrażeń przez aktywą tarczę [*]
+2110992027|27282d9d||Axii - szansa [*]
+2110992028|8566fddf||Szybki atak - obrażenia [*]
+2110992029|7a3d2c04||Silny atak - obrażenia [*]
+2110992030|a3e34c39||Absorbcja obrażeń [*]
+2110992034|40aed692||Szansa na atak krytyczny - Bestie [*]
+2110992035|c8957121||Szansa na atak krytyczny - Przeklęci [*]
+2110992036|79a23d6e||Szansa na atak krytyczny - Draconidy [*]
+2110992037|d33fe160||Szansa na atak krytyczny - Człowiek [*]
+2110992038|f261a80b||Szansa na atak krytyczny - Hybrydy [*]
+2110992039|97466e95||Szansa na atak krytyczny - Insektoidy [*]
+2110992040|4bfdf9ea||Szansa na atak krytyczny - Żywiołaki [*]
+2110992041|016d02ed||Szansa na atak krytyczny - Nekrofagi [*]
+2110992042|9c73a4a6||Szansa na atak krytyczny - Relikty [*]
+2110992043|c3702fb9||Szansa na atak krytyczny - Zjawy [*]
+2110992044|cd868a1a||Szansa na atak krytyczny - Ogrowate [*]
+2110992045|42229941||Szansa na atak krytyczny - Wampiry [*]
+2110992046|4fa6c42d||Obrażenia ataku krytycznego - Bestie [*]
+2110992047|df4cf77c||Obrażenia ataku krytycznego - Przeklęci [*]
+2110992048|f7d09609||Obrażenia ataku krytycznego - Draconidy [*]
+2110992049|810bfc7b||Obrażenia ataku krytycznego - Człowiek [*]
+2110992050|6b0ad6e6||Obrażenia ataku krytycznego - Hybrydy [*]
+2110992051|6adf0df0||Obrażenia ataku krytycznego - Insektoidy [*]
+2110992052|0cf40585||Obrażenia ataku krytycznego - Żywiołaki [*]
+2110992053|69eb0048||Obrażenia ataku krytycznego - Nekrofagi [*]
+2110992054|2e15b341||Obrażenia ataku krytycznego - Relikty [*]
+2110992055|17546414||Obrażenia ataku krytycznego - Zjawy [*]
+2110992056|b4fbb1b5||Obrażenia ataku krytycznego - Ogrowate [*]
+2110992057|d123879c||Obrażenia ataku krytycznego - Wampiry [*]
+2110992058|c8d4450c||Redukcja odporności na obrażenia - Bestie [*]
+2110992059|4b1b4cdd||Redukcja odporności na obrażenia - Przeklęci [*]
+2110992060|da69abb0||Redukcja odporności na obrażenia - Draconidy [*]
+2110992061|83b5dcfe||Redukcja odporności na obrażenia - Człowiek [*]
+2110992062|5da28e33||Redukcja odporności na obrażenia - Hybrydy [*]
+2110992063|ca4463e9||Redukcja odporności na obrażenia - Insektoidy [*]
+2110992064|d14fa0b4||Redukcja odporności na obrażenia - Żywiołaki [*]
+2110992065|8b85ee91||Redukcja odporności na obrażenia - Nekrofagi [*]
+2110992066|0ecc4f78||Redukcja odporności na obrażenia - Relikty [*]
+2110992067|64e2d545||Redukcja odporności na obrażenia - Zjawy [*]
+2110992068|111c7e84||Redukcja odporności na obrażenia - Ogrowate [*]
+2110992069|5a3c18bd||Redukcja odporności na obrażenia - Wampiry [*]
+2110992070|d25344ee||Obrażenia vs Człowiek [*]
+2110992071|da7e5ba4||Każdy element lekkiego pancerza zwiększa szansę na trafienie krytyczne o $S$% oraz moc ataku krytycznego o $S$%. [*]
+2110992072|da7e5ba6||Każdy element ciężkiego pancerza zwiększa maksymalną żywotność o $S$%, obrażenia zadane bronią białą dodają dodatkowe $S$% punkty adrenaliny za każdy element ciężkiego pancerza. [*]
+2110992073|163a8e78||Zwiększa szansę na podpalenie o $I$%.
+2110992074|3c4a6af2||Silny atak - obrażenia [*]
+2110992075|5806ca6e||Silny atak - obrażenia krytyczne [*]
+2110992076|69d8dd89||Szybki atak - obrażenia krytyczne [*]
+2110992077|89dfeac9||Szybki atak - szansa na atak krytyczny [*]
+2110992078|bc4297c4||Silny atak - szansa na atak krytyczny [*]
+2110992079|d23992f7||Szybki atak - obrażenia [*]
+2110992080|2e06698e||Silny atak - obrażenia krytyczne [*]
+2110992081|3375c4a9||Szybki atak - obrażenia krytyczne [*]
+2110992082|73d42fa9||Szybki atak - szansa na atak krytyczny [*]
+2110992083|b08bd7d2||Silny atak - obrażenia [*]
+2110992084|c7b0b7d7||Szybki atak - obrażenia [*]
+2110992085|fa3924a4||Silny atak - szansa na atak krytyczny [*]
 2110992090|6c1d3ba3||Critical hit chance and critical hit power also apply to bombs. Bombs are thrown without any delay.
 2110992091|85e8fbd1||Each oil applied to a sword increases critical hit chance by 5% and critical hit power by 10%.
 2110992092|1f70c024||Fast attacks have $S$% chance to apply Bleeding effect.
@@ -293,4 +293,4 @@
 2110992311|e71d7c8c||Grants 15% of additional resistance to all types of damage if at 60 inventory weight or below, bonus decreases with more weight.
 2110992312|a5384b1f||Use synchronized stash mode by default
 2110992313|da7e5ba8||If you have at least one Adrenaline Point, it will be used to cast a Sign instead of Stamina.
-2110992314|63833111||No additional levels for guards
+2110992314|63833111||Nie podnoś poziomu doświadczenia strażników [*]
