@@ -2,8 +2,8 @@
 ; id      |key(hex)|key(str)| text
 2110992000|4d5f8b0c||Mods [*]
 2110992001|818b6a6e||Ghost Mode [*]
-2110992002|205aa5f5||Mnożnik żywotności przeciwnika [*]
-2110992003|a570c302||Mnożnik siły ataku przeciwnika [*]
+2110992002|205aa5f5||Mnożnik Żywotności przeciwnika [*]
+2110992003|a570c302||Mnożnik obrażeń zadawanych przez przeciwnika [*]
 2110992004|be5d891f||Skalowania przeciwników [*]
 2110992005|c33062be||Brak [*]
 2110992006|cffa3a49||Upscale [*]
@@ -17,14 +17,14 @@
 2110992019|f38f5b36||Firestream damage per sec [*]
 2110992020|6a994712||Magiczne pułapki [*]
 2110992021|cc57bcc3||Obrażenia magicznej pułaki [*]
-2110992022|60b53abe||Magiczny strażnik - czas trwania [*]
-2110992023|8594f9d5||Magiczny strażnik - ładunki [*]
-2110992024|1e6cbb19||Magiczny strażnik - obrażenia [*]
+2110992022|60b53abe||Magiczny Strażnik - czas trwania [*]
+2110992023|8594f9d5||Magiczny Strażnik - ładunki [*]
+2110992024|1e6cbb19||Magiczny Strażnik - obrażenia [*]
 2110992025|ee530dcc||Odbite obrażenia [*]
 2110992026|e379a123||Redukcja obrażeń przez aktywą tarczę [*]
 2110992027|27282d9d||Axii - szansa [*]
-2110992028|8566fddf||Szybki atak - obrażenia [*]
-2110992029|7a3d2c04||Silny atak - obrażenia [*]
+2110992028|8566fddf||Szybki Atak - obrażenia [*]
+2110992029|7a3d2c04||Silny Atak - obrażenia [*]
 2110992030|a3e34c39||Absorbcja obrażeń [*]
 2110992034|40aed692||Szansa na atak krytyczny - Bestie [*]
 2110992035|c8957121||Szansa na atak krytyczny - Przeklęci [*]
@@ -64,39 +64,39 @@
 2110992069|5a3c18bd||Redukcja odporności na obrażenia - Wampiry [*]
 2110992070|d25344ee||Obrażenia vs Człowiek [*]
 2110992071|da7e5ba4||Każdy element lekkiego pancerza zwiększa szansę na trafienie krytyczne o $S$% oraz moc ataku krytycznego o $S$%. [*]
-2110992072|da7e5ba6||Każdy element ciężkiego pancerza zwiększa maksymalną żywotność o $S$%, obrażenia zadane bronią białą dodają dodatkowe $S$% punkty adrenaliny za każdy element ciężkiego pancerza. [*]
-2110992073|163a8e78||Zwiększa szansę na podpalenie o $I$%.
-2110992074|3c4a6af2||Silny atak - obrażenia [*]
-2110992075|5806ca6e||Silny atak - obrażenia krytyczne [*]
-2110992076|69d8dd89||Szybki atak - obrażenia krytyczne [*]
-2110992077|89dfeac9||Szybki atak - szansa na atak krytyczny [*]
-2110992078|bc4297c4||Silny atak - szansa na atak krytyczny [*]
-2110992079|d23992f7||Szybki atak - obrażenia [*]
-2110992080|2e06698e||Silny atak - obrażenia krytyczne [*]
-2110992081|3375c4a9||Szybki atak - obrażenia krytyczne [*]
-2110992082|73d42fa9||Szybki atak - szansa na atak krytyczny [*]
-2110992083|b08bd7d2||Silny atak - obrażenia [*]
-2110992084|c7b0b7d7||Szybki atak - obrażenia [*]
-2110992085|fa3924a4||Silny atak - szansa na atak krytyczny [*]
-2110992090|6c1d3ba3||Critical hit chance and critical hit power also apply to bombs. Bombs are thrown without any delay.
-2110992091|85e8fbd1||Each oil applied to a sword increases critical hit chance by 5% and critical hit power by 10%.
-2110992092|1f70c024||Fast attacks have $S$% chance to apply Bleeding effect.
-2110992093|71d0c5a6||Alternate Sign Mode:<br>Deals $I$ points of damage to enemies within a $I$ yard radius. Damage scales with Sign intensity (current damage: $I$). Destroys projectiles passing through this area. Lasts for $I$s. Turret charges - $I$.
-2110992094|71d0c5a5||Alternate Sign Mode:<br>Deals $I$ points of damage to enemies within a $I$ yard radius. Damage scales with Sign intensity (current damage: $I$). Destroys projectiles passing through this area. Lasts for $I$s. Turret charges - $I$.
-2110992095|163a8e72||Alternate Sign Mode:<br>Deals $I$ points of damage to enemies within a $I$ yard radius. Damage scales with Sign intensity (current damage: $I$). Destroys projectiles passing through this area. Lasts for $I$s. Turret charges - $I$.
-2110992096|b1173fc9||Two opponents can be influenced by Axii at the same time. Effect duration is lowered by $I$%.
-2110992097|c8467d3c||Two opponents can be influenced by Axii at the same time. Effect duration is lowered by $I$%.
-2110992098|c8467d3d||Two opponents can be influenced by Axii at the same time. Effect duration is no longer lowered.
-2110992099|1f70c022||Each Adrenaline Point adds $I$% to the chance of killing an opponent instantly. Does not apply to Whirl.
-2110992102|1f70c021||Strong attack that goes through blocks and shields. Deals additional $S$% damage plus $S$% damage per Adrenaline Point in proportion to the Stamina consumed ($S$% max). Increases critical hit chance by $S$%.
-2110992103|1f70c020||Spinning attack that strikes all foes in the surrounding area. Deals $S$% less damage. Maintaining the attack consumes Stamina and Adrenaline. Damage received is decreased by $S$% during the attack.
-2110992104|064143d3||Spinning attack that strikes all foes in the surrounding area. Deals $S$% less damage. Maintaining the attack consumes Stamina and Adrenaline. Damage received is decreased by $S$% during the attack.
-2110992105|6f2a6f0f||Adrenaline Gain
-2110992106|739e1e2c||Strong Attacks increase Fast Attack damage for $S$ seconds by $S$% for each piece of the set. And vice versa. Current bonus: $S$%.
-2110992107|8ed43e3e||Each piece of the set decreases sign casting stamina cost by $S$%. Current bonus: $S$%.
-2110992108|8ed43e3f||The size of Yrden traps is increased by $S$%. While you are within an Yrden trap, Sign Intensity is increased by $S$% and damage resistance is increased by $S$%.
-2110992109|739e1e2d||Critical hits with a sword double Adrenaline gained.
-2110992110|328ae462||Knockdown chance
+2110992072|da7e5ba6||Każdy element ciężkiego pancerza zwiększa maksymalną Żywotność o $S$%, obrażenia zadane bronią białą dodają dodatkowe $S$% punkty Adrenaliny za każdy element ciężkiego pancerza. [*]
+2110992073|163a8e78||Zwiększa szansę na Podpalenie o $I$%.
+2110992074|3c4a6af2||Silny Atak - obrażenia [*]
+2110992075|5806ca6e||Silny Atak - obrażenia krytyczne [*]
+2110992076|69d8dd89||Szybki Atak - obrażenia krytyczne [*]
+2110992077|89dfeac9||Szybki Atak - szansa na atak krytyczny [*]
+2110992078|bc4297c4||Silny Atak - szansa na atak krytyczny [*]
+2110992079|d23992f7||Szybki Atak - obrażenia [*]
+2110992080|2e06698e||Silny Atak - obrażenia krytyczne [*]
+2110992081|3375c4a9||Szybki Atak - obrażenia krytyczne [*]
+2110992082|73d42fa9||Szybki Atak - szansa na atak krytyczny [*]
+2110992083|b08bd7d2||Silny Atak - obrażenia [*]
+2110992084|c7b0b7d7||Szybki Atak - obrażenia [*]
+2110992085|fa3924a4||Silny Atak - szansa na atak krytyczny [*]
+2110992090|6c1d3ba3||Szansa na atak krytyczny oraz obrażenia ataku krytycznego dotyczą także petard. Rzut petardą nastęuje bezzwłocznie. [*]
+2110992091|85e8fbd1||Każdy zaaplikowany olej zwiększa szansę na atak krytyczny o 5% oraz obrażenia krytyczne o 10%. [*]
+2110992092|1f70c024||Szybki Atak posiada $S$% szans na spowodowanie efektu krwawienia. [*]
+2110992093|71d0c5a6||Tryb Alternatywny Znaku:<br>Zadaje $I$ punktów obrażeń przeciwnikom w zasięgu $I$ jardów. Obrażenia zależą od Intensywności Znaku (aktualne obrażenia: $I$). Niszczy pociski w obszarze działania. Czas trwania $I$s. Ładunki Strażnika - $I$. [*]
+2110992094|71d0c5a5||Tryb Alternatywny Znaku:<br>Zadaje $I$ punktów obrażeń przeciwnikom w zasięgu $I$ jardów. Obrażenia zależą od Intensywności Znaku (aktualne obrażenia: $I$). Niszczy pociski w obszarze działania. Czas trwania $I$s. Ładunki Strażnika - $I$. [*]
+2110992095|163a8e72||Tryb Alternatywny Znaku:<br>Zadaje $I$ punktów obrażeń przeciwnikom w zasięgu $I$ jardów. Obrażenia zależą od Intensywności Znaku (aktualne obrażenia: $I$). Niszczy pociski w obszarze działania. Czas trwania $I$s. Ładunki Strażnika - $I$. [*]
+2110992096|b1173fc9||Znak Axii wpłynie na 2 przeciwników w tym samym czasie. Czas trwania efektu pomniejszony o $I$%. [*]
+2110992097|c8467d3c||Znak Axii wpłynie na 2 przeciwników w tym samym czasie. Czas trwania efektu pomniejszony o $I$%. [*]
+2110992098|c8467d3d||Znak Axii wpłynie na 2 przeciwników w tym samym czasie. Czas trwania efektu bez zmian. [*]
+2110992099|1f70c022||Każdy punkt Adrenaliny dodaje $I$% do szansy natychmiastowego zabicia przeciwnika. Nie łączy się z Młynkiem. [*]
+2110992102|1f70c021||Silny atak przełamujący opór blokującego przeciwnika oraz osłonę tarczą. Zadaje dodatkowe $S$% punktów obrażeń plus $S$% na każdy punkt Adrenaliny w proporcji do użytej Wytrzymałości ($S$% max). Zwiększa szansę na trafienie krytyczne o $S$%. [*]
+2110992103|1f70c020||Młynek - Piruet ofensywny pozwalający uderzyć otaczających przeciwników. Obrażenia zmniejszone o $S$%. Podtrzymanie ataku wymaga użycia Wytrzymałości oraz Adrenaliny. W czasie działania otrzymywane obrażenia zmniejszone są o $S$%. [*]
+2110992104|064143d3||Młynek - Piruet ofensywny pozwalający uderzyć otaczających przeciwników. Obrażenia zmniejszone o $S$%. Podtrzymanie ataku wymaga użycia Wytrzymałości oraz Adrenaliny. W czasie działania otrzymywane obrażenia zmniejszone są o $S$%. [*]
+2110992105|6f2a6f0f||Przyrost Adrenaliny [*]
+2110992106|739e1e2c||Silny Atak zwiększa obrażenia Ataku Szybkiego przez $S$ sekund, o $S$% za każdy element pancerza. Szybki Atak vice versa. Aktualny efekt: $S$%. [*]
+2110992107|8ed43e3e||Każdy element pancerza zmniejsza koszt Wytrzymałości przy rzucania Znaków o $S$%. Aktualny efekt: $S$%. [*]
+2110992108|8ed43e3f||Obszar połapki Znaku Yrden jest większy o $S$%. Obecność Bohatera w obszarze działania, zwiększa Intensywność Znaku o $S$%, oraz odporność na obrażenia o $S$%. [*]
+2110992109|739e1e2d||Atak krytyczny bronią białą zwiększa wzrost adrenaliny dwukrotnie. [*]
+2110992110|328ae462||Szansa na Powalenie [*]
 2110992111|c3f538a3||Crossbow critical hit chance is increased by $S$% and critical hit power - by $S$%. Crossbow bolts pierce and knock down or stun opponents. Opponents struck when they have full Vitality lose $S$% of Vitality.
 2110992112|925f2058||Undying
 2110992113|c1e6a9cc||When Vitality reaches zero, Adrenaline Points will be consumed to prevent death and grant invulnerability and increased Vitality regeneration for $S$s. Restores $S$% of Vitality per Adrenaline Point (max $S$%). Cannot be triggered more than once every $S$s.
