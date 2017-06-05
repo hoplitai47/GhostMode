@@ -17,7 +17,7 @@
 2110992019|f38f5b36||Firestream damage per sec [*]
 2110992020|6a994712||Magiczne pułapki [*]
 2110992021|cc57bcc3||Obrażenia magicznej pułaki [*]
-2110992022|60b53abe||Magiczna Pułapka - czas trwania [*]
+2110992022|60b53abe||Magiczna Pułapka - czas działania [*]
 2110992023|8594f9d5||Magiczna Pułapka - ładunki [*]
 2110992024|1e6cbb19||Magiczna Pułapka - obrażenia [*]
 2110992025|ee530dcc||Odbite obrażenia [*]
@@ -65,7 +65,7 @@
 2110992070|d25344ee||Obrażenia vs Humanoidy [*]
 2110992071|da7e5ba4||Każdy element lekkiego rynsztunku dodaje $S$% do szansy na trafienie krytyczne oraz $S$% do obrażeń krytycznych. [*]
 2110992072|da7e5ba6||Każdy element ciężkiego rynsztunku dodaje $S$% do maksymalnej Żywotności oraz $S$% do generowania Punktów Adrenaliny bronią białą. [*]
-2110992073|163a8e78||Zwiększa szansę na Podpalenie o $I$%.
+2110992073|163a8e78||Zwiększa szansę na Podpalenie o $I$%. [*]
 2110992074|3c4a6af2||Silny Atak - obrażenia [*]
 2110992075|5806ca6e||Silny Atak - obrażenia krytyczne [*]
 2110992076|69d8dd89||Szybki Atak - obrażenia krytyczne [*]
@@ -84,9 +84,9 @@
 2110992093|71d0c5a6||Alternatywny tryb Znaku:<br>Zadaje $I$ punktów obrażeń przeciwnikom w zasięgu $I$ jardów. Obrażenia zależą od Mocy Znaku (aktualne obrażenia: $I$). Niszczy pociski w obszarze działania. Czas trwania $I$s. Ładunki Pułapki - $I$. [*]
 2110992094|71d0c5a5||Alternatywny tryb Znaku:<br>Zadaje $I$ punktów obrażeń przeciwnikom w zasięgu $I$ jardów. Obrażenia zależą od Mocy Znaku (aktualne obrażenia: $I$). Niszczy pociski w obszarze działania. Czas trwania $I$s. Ładunki Pułapki - $I$. [*]
 2110992095|163a8e72||Alternatywny tryb Znaku:<br>Zadaje $I$ punktów obrażeń przeciwnikom w zasięgu $I$ jardów. Obrażenia zależą od Mocy Znaku (aktualne obrażenia: $I$). Niszczy pociski w obszarze działania. Czas trwania $I$s. Ładunki Pułapki - $I$. [*]
-2110992096|b1173fc9||Znak Aksji może objąć dwóch przeciwników. Czas trwania pomniejszony o $I$%. [*]
-2110992097|c8467d3c||Znak Aksji może objąć dwóch przeciwników. Czas trwania pomniejszony o $I$%. [*]
-2110992098|c8467d3d||Znak Aksji może objąć dwóch przeciwników. Czas trwania bez zmian. [*]
+2110992096|b1173fc9||Znak Aksji może objąć dwóch przeciwników. Czas działania pomniejszony o $I$%. [*]
+2110992097|c8467d3c||Znak Aksji może objąć dwóch przeciwników. Czas działania pomniejszony o $I$%. [*]
+2110992098|c8467d3d||Znak Aksji może objąć dwóch przeciwników. Czas działania bez zmian. [*]
 2110992099|1f70c022||Każdy punkt Adrenaliny dodaje $I$% do szansy natychmiastowego zabicia przeciwnika. Nie łączy się z Młynkiem. [*]
 2110992102|1f70c021||Silny atak przełamujący opór blokującego przeciwnika oraz osłonę tarczą. Zadaje dodatkowe $S$% punktów obrażeń plus $S$% na każdy punkt Adrenaliny w proporcji do użytej Wytrzymałości ($S$% max). Zwiększa szansę na trafienie krytyczne o $S$%. [*]
 2110992103|1f70c020||Młynek - Piruet ofensywny pozwalający uderzyć otaczających przeciwników. Obrażenia zmniejszone o $S$%. Podtrzymanie ataku wymaga użycia Wytrzymałości oraz Adrenaliny. W czasie działania otrzymywane obrażenia zmniejszone są o $S$%. [*]
@@ -110,7 +110,7 @@
 2110992121|c1e68f84||Kontratak zwiększa obrażenia następnego ciosu o $I$%. Każdy Punkt Adrenaliny zwiększa szansę na Powalenie o $I$% (max $I$%, Adrenalina jest wykorzystana w przypadku powodzenia). [*]
 2110992122|c1e68f85||Kontratak zwiększa obrażenia następnego ciosu o $I$%. Każdy Punkt Adrenaliny zwiększa szansę na Powalenie o $I$% (max $I$%, Adrenalina jest wykorzystana w przypadku powodzenia). Zwiększa szansę na atak krytyczny o $I$%. [*]
 2110992123|cea74411||Kontratak zwiększa obrażenia następnego ciosu o $I$%. [*]
-2110992124|cf2b2da2||Tarcza energetyczna, która absorbuje $I$ punktów obrażeń. Ilość absorbowanych obrażeń rośnie wraz z Mocą Znaku (aktualnie: $I$). <br>Czas trwania: $I$s. [*]
+2110992124|cf2b2da2||Tarcza energetyczna, która absorbuje $I$ punktów obrażeń. Ilość absorbowanych obrażeń rośnie wraz z Mocą Znaku (aktualnie: $I$). <br>Czas działania: $I$s. [*]
 2110992125|163a8e77||Zadanie obrażeń Znakiem Igni zmniejsza również permanentnie pancerz przeciwników o $S$%. Efekt skaluje się wraz z Mocą Znaków aż do $S$%. [*]
 2110992126|cf2b2da0||Wybuch ognia powodujący $I$ punktów obrażeń, z $I$% szansą na Podpalenie. Efekt skaluje się wraz z Mocą Znaków, aktualne obrażenia: $I$. [*]
 2110992127|163a8e71||Alternatywny tryb Znaku:<br>Nieprzerwany strumień ognia, który Podpala, oraz powoduje $I$ obrażeń na sekundę. Efekt skaluje się wraz z Mocą Znaków, aktualne obrażenia $S$%. Używa $I$ Punktów Wytrzymałości na sekundę. [*]
@@ -118,50 +118,50 @@
 2110992129|71d0c1e5||Alternatywny tryb Znaku:<br>Nieprzerwany strumień ognia, który Podpala, oraz powoduje $I$ obrażeń na sekundę. Efekt skaluje się wraz z Mocą Znaków, aktualne obrażenia $S$%. Używa $I$ Punktów Wytrzymałości na sekundę. [*]
 2110992130|163a8e75||Zwiększa moc Znaku Aard do $I$ punktów. Efekt skaluje się wraz z Mocą Znaków, aktualne obrażenia $I$. [*]
 2110992131|b3c8ebb8||Magiczna Pułapka [*]
-2110992132|b1173fc0||Dodaje $I$% do czasu trwania Magicznej pułapki oraz $I$ do ilości pocisków pułapki. [*]
-2110992133|ab0515e8||Dodaje $I$% do czasu trwania Magicznej pułapki oraz $I$ do ilości pocisków pułapki. Zwiększa o 1 maksymalną liczbę Magicznych pułapek. [*]
+2110992132|b1173fc0||Dodaje $I$% do czasu działania glifu Yrden i Magicznej pułapki, oraz $I$ do ilości pocisków pułapki. [*]
+2110992133|ab0515e8||Dodaje $I$% do czasu działania glifu Yrden i Magicznej pułapki, oraz $I$ do ilości pocisków pułapki. Zwiększa o 1 maksymalną liczbę glifów Yrden. [*]
 2110992134|b1173fc1||Przeciwnicy w obszarze pułapki tracą $S$% punktów Żywotności lub Esencji na sekundę. [*]
 2110992135|c84666b6||Wyczerpana tarcza Quen odpycha i rani przeciwników za $I$ obrażeń. Obrażenia zależą od Mocy Znaku (aktualne obrażenia: $I$). [*]
-2110992136|c84666b7||Wyczerpana tarcza Quen odpycha i rani przeciwników za $I$ obrażeń, z szansą na Powalenie. Obrażenia zależą od Mocy Znaku (aktualne obrażenia: $I$). [*]
-2110992137|163a8e73||Alternate Sign Mode:<br>Creates an active shield which absorbs $I$% more damage. Maintaining it drains $I$ Stamina Points per second. Blocked attacks drain Stamina proportional to damage absorbed. Restores Vitality by $I$% of damage absorbed.
-2110992138|71d0c966||Alternate Sign Mode:<br>Creates an active shield which absorbs $I$% more damage. Maintaining it drains $I$ Stamina Points per second. Blocked attacks drain Stamina proportional to damage absorbed. Restores Vitality by $I$% of damage absorbed.
-2110992139|71d0c967||Alternate Sign Mode:<br>Creates an active shield which absorbs $I$% more damage. Maintaining it no longer drains Stamina. Blocked attacks drain Stamina proportional to damage absorbed. Restores Vitality by $I$% of damage absorbed.
-2110992140|15dda916||Appropriate oil applied to blades gives a $I$% chance of poisoning the target on each hit. Enhanced oil increases this chance by $I$% and Superior - by $I$%.
-2110992141|15dda91a||If Toxicity is above zero, time automatically slows by $S$% when an enemy is about to perform a counterattack. Effect duration: $S$s.
-2110992142|1517d64d||If Toxicity is above zero, time automatically slows by $S$% when an enemy is about to perform a counterattack. Effect duration: $S$s.
-2110992143|1517d64e||If Toxicity is above zero, time automatically slows by $S$% when an enemy is about to perform a counterattack. Effect duration: $S$s.
-2110992145|329005f0||Allows you to perform strong melee attacks which deal $I$% more damage and add $I$ to armor penetration.
-2110992148|bab1daf5||Each point of Toxicity increases Attack Power and Sign Intensity by $S$% (to a maximum of $S$%).
+2110992136|c84666b7||Wyczerpana tarcza Quen odpycha z szansą na Powalenie i rani przeciwników za $I$ obrażeń. Obrażenia zależą od Mocy Znaku (aktualne obrażenia: $I$). [*]
+2110992137|163a8e73||Alternatywny tryb Znaku:<br>Pozwala podtrzymać aktywną tarczę absorbującą o $I$% więcej obrażeń, zużywa $I$ Punktów Wytrzymałości na sekundę. Zablokowanie ataku zużywa wytrzymałość o wartości równej pochłoniętym obrażeniom. Odnawia Żywotność równą $I$% pochłoniętych obrażeń. [*]
+2110992138|71d0c966||Alternatywny tryb Znaku:<br>Pozwala podtrzymać aktywną tarczę absorbującą o $I$% więcej obrażeń, zużywa $I$ Punktów Wytrzymałości na sekundę. Zablokowanie ataku zużywa wytrzymałość o wartości równej pochłoniętym obrażeniom. Odnawia Żywotność równą $I$% pochłoniętych obrażeń. [*]
+2110992139|71d0c967||Alternatywny tryb Znaku:<br>Pozwala podtrzymać aktywną tarczę absorbującą o $I$% więcej obrażeń, bez zużywania wytrzymałości. Zablokowanie ataku zużywa wytrzymałość o wartości równej pochłoniętym obrażeniom. Odnawia Żywotność równą $I$% pochłoniętych obrażeń. [*]
+2110992140|15dda916||Odpowiedni Olej nałożony na ostrze daje $I$% szans na zatrucie przeciwnika przy każdym trafieniu, Ulepszony Olej zwiększa szansę o $I$%, a Wyśmienity o $I$% [*].
+2110992141|15dda91a||Gdy wiedźmin jest zatruty eliksirami, podczas kontrataku przeciwnika następuje spowolnienie czasu o $S$%. Czas trwania: $S$ sekund. [*]
+2110992142|1517d64d||Gdy wiedźmin jest zatruty eliksirami, podczas kontrataku przeciwnika następuje spowolnienie czasu o $S$%. Czas trwania: $S$ sekund. [*]
+2110992143|1517d64e||Gdy wiedźmin jest zatruty eliksirami, podczas kontrataku przeciwnika następuje spowolnienie czasu o $S$%. Czas trwania: $S$ sekund. [*]
+2110992145|329005f0||Pozwala wykonywać silniejsze ataki bronią, dodając $I$% do obrażeń, oraz $I$ do Przebicia Pancerza. [*]
+2110992148|bab1daf5||Każdy Punkt Zatrucia zwiększa obrażenia bronią oraz Moc Znaków o $S$% (maks $S$%). [*]
 2110992149|c3f5389c||Signs can deal critical hits. Their critical hit chance and power increase with Sign Intensity (current critical hit chance -  $S$%, critical hit power - $S$%). Opponents killed by critical hits from Signs explode.
 2110992150|c3f538a0||When the Aard Sign is cast, it additionally has a $S$% chance of freezing opponents. Opponents knocked down and frozen simultaneously die immediately. Opponents who are not frozen are dealt an additional $S$ damage. Damage scales with Sign intensity. Current damage: $S$.
 2110992151|cf2b2da1||Magic trap that slows enemies down by $S$% (scales with Sign Intensity) inside its area of effect. Trap duration: $S$s.
 2110992152|c3f538a1||At start of combat, Attack Power and Sign Intensity increase by $S$% for each foe (after first) for $S$s. So, when fighting $S$ foes, the bonus is $S$%. Once it wears off, Attack Power and Sign Intensity drop by $S$% for each participating foe after first (but no more than by $S$%) for $S$s.
-2110992153|c32e766a||Critical hit power bonus
-2110992154|28838f82||Armor penetration
-2110992155|f35fcb73||Armor penetration
-2110992156|0147942a||Vitality regeneration outside of combat
-2110992157|a83467f6||Vitality regeneration during combat
-2110992158|c95c6e28||When at maximum Vitality, additional Vitality regeneration increases your next sword or sign attack damage (up to +$I$%).
-2110992159|ccc61f66||Any edible consumed lasts longer by $I$%, but tastes like pierogi.
-2110992160|22156cd6||When Magic Turret set by Yrden hits an enemy, an Yrden Magic Trap is placed at that position.
-2110992161|4a0f3f56||Sign damage
-2110992162|4f424deb||Weapon damage
-2110992163|7968d6e0||Freezes foes. Blows landed on frozen foes deal additional damage. Extended duration.
-2110992164|b02a28c2||Damage increase
-2110992165|9e58d1f5||Increases Sign intensity. Extended duration. Special effects from signs are one-third longer.
-2110992166|329005f3||Blows landed during combat generate Adrenaline Points. Each Adrenaline Point increases Attack Power by $I$%.
-2110992167|d11e5fa2||Fast attack critical hit power
-2110992168|3018409d||Strong attack critical hit power
-2110992169|25746309||Geralt is now clean-shaven
-2110992170|329005f2||Allows you to wield a light hand-held crossbow. Non-aimed shots deal 50% less damage.
-2110992171|5f63dbf5||Enables the creation of handheld bombs that can be thrown at enemies. Non-aimed throws deal 50% less damage.
-2110992172|754d1891||In addition to usual Battle Trance effect, Each Adrenaline Point also increases Sign intensity by $I$%.
-2110992173|04bda90f||Used for shaving.
-2110992174|da7e5ba5||Each piece of medium armor increases Sign intensity by $S$% and Stamina regeneration by $S$%.
-2110992175|b1173fc7||Target is slowed down by $I$% while Geralt is casting Axii. Increases the effectiveness of Axii in dialogues.
-2110992176|c84675ba||Target is slowed down by $I$% while Geralt is casting Axii. Increases the effectiveness of Axii in dialogues.
-2110992177|c84675bb||Target is slowed down by $I$% while Geralt is casting Axii. Failed Axii attempts stagger the target. Increases the effectiveness of Axii in dialogues.
-2110992178|56747c57||Accelerates Vitality regeneration. Extended duration. Vitality regeneration does not pause upon receiving damage.
+2110992153|c32e766a||Premia do obrażeń krytycznych [*]
+2110992154|28838f82||Przebicie Pancerza [*]
+2110992155|f35fcb73||Przebicie Pancerza [*]
+2110992156|0147942a||Regeneracja żywotności poza walką [*]
+2110992157|a83467f6||Regeneracja żywotności w trakcie walki [*]
+2110992158|c95c6e28||Przy pełnej żywotności, szybkość regeneracji żywotności zwiększa obrażenia miecza lub znaków (do +$I$%). [*]
+2110992159|ccc61f66||Jedzenie regeneruje żywotność o $I$% dłużej, ale wszystko smakuje jak pierogi. [*]
+2110992160|22156cd6||Gdy magiczna pułapka Yrden trafi przeciwnika, w miejscu, gdzie ten stoi, tworzy się glif Yrden. [*]
+2110992161|4a0f3f56||Obrażenia znaku [*]
+2110992162|4f424deb||Obrażenia broni [*]
+2110992163|7968d6e0||Zamraża przeciwników. Ciosy zadane zamrożonym przeciwnikom zadają dodatkowe obrażenia. Wydłużony czas działania. [*]
+2110992164|b02a28c2||Zwiększenie obrażeń [*]
+2110992165|9e58d1f5||Zwiększa Moc Znaków. Wydłużony czas działania. Czas działania efektów krytyczych Znaków dłuższy o 33%. [*]
+2110992166|329005f3||Ciosy zadawane podczas walki wręcz generują adrenalinę. Każdy Punkt Adrenaliny zwiększa obrażenia zadane bronią o $I$%. [*]
+2110992167|d11e5fa2||Szybki Atak - obrażenia krytyczne [*]
+2110992168|3018409d||Silny Atak - obrażenia krytyczne [*]
+2110992169|25746309||Geralt jest teraz ogolony na czysto [*]
+2110992170|329005f2||Umożliwia posługiwanie się lekką kuszą. Strzał bez celowania zadaje o 50% mniej obrażeń. [*]
+2110992171|5f63dbf5||Umożliwia wytwarzanie petard, które są pociskami miotanymi w przeciwników. Rzut bez celowania zadaje o 50% mniej obrażeń. [*]
+2110992172|754d1891||Trans Bojowy zwiększa dodatkowo Moc Znaków o $I$% za każdy Punkt Adrenaliny. [*]
+2110992173|04bda90f||Służy do golenia. [*]
+2110992174|da7e5ba5||Każdy element średniego rynsztunku dodaje $S$% do Mocy Znaków i $S$% do regeneracji Wytrzymałości. [*]
+2110992175|b1173fc7||Cel jest spowolniony o $I$% podczas rzucania Znaku. Zwiększa skuteczność Znaku Aksji w dialogach. [*]
+2110992176|c84675ba||Cel jest spowolniony o $I$% podczas rzucania Znaku. Zwiększa skuteczność Znaku Aksji w dialogach. [*]
+2110992177|c84675bb||Cel jest spowolniony o $I$% podczas rzucania Znaku. Nawet jeśli rzucenie Aksji jest nieudane, przeciwnik zostaje wytrącony z równowagi. Zwiększa skuteczność Znaku Aksji w dialogach. [*]
+2110992178|56747c57||Zwiększa regenerację Żywotności. Wydłużony czas działania. Otrzymywane obrażenia nie zatrzymują regeneracji Żywotności. [*]
 2110992179|b9aff26b||Twoje przeciążenie jest zbyt duże [*]
 2110992180|b66cd6f6||Zatop łódź przy przeciążeniu [*]
 2110992181|b48e9483||Limit przeciążenia do zatopienia łodzi (%) [*]
@@ -173,7 +173,7 @@
 2110992187|7e63c963||Tryb synchronizowany [*]
 2110992188|e71d7c90||Zabicie przeciwnika zwiększa maksymalną żywotność do czasu medytacji lub szybkiej podróży. [*]
 2110992189|d3510d11||Zwiera opiłki srebra, które czasowo powstrzymują przemiany potworów oraz regenerację. [*]
-2110992190|d3510d12||Zwiera opiłki srebra, które czasowo powstrzymują przemiany potworów oraz regenerację. Wydłużony czas trwania. [*]
+2110992190|d3510d12||Zwiera opiłki srebra, które czasowo powstrzymują przemiany potworów oraz regenerację. Wydłużony czas działania. [*]
 2110992191|d3510d13||Zwiera opiłki srebra, które na zawsze powstrzymują przemiany potworów oraz regenerację. [*]
 2110992192|08eace65||Zwiększa efektywność ataku względem Insektoidów. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
 2110992193|08eace66||Zwiększa efektywność ataku względem Insektoidów. Efekt traci na mocy wraz ze ścieraniem się oleju z ostrza. [*]
@@ -217,12 +217,12 @@
 2110992231|de026195||Usuwa zatrucie eliksirami i efekty działania eliksirów. [*]
 2110992232|de026196||Usuwa zatrucie eliksirami i efekty działania eliksirów. [*]
 2110992233|de026197||Usuwa zatrucie eliksirami i efekty działania eliksirów. [*]
-2110992234|f8b46c38||Increases attack effectiveness against relicts.
-2110992235|874e9f88||Grants sight in total darkness and immunity to hypnosis. Extended duration.
-2110992237|fe608837||Inflicts shrapnel damage to foes within its explosion radius. Deals fire damage. Enhanced effect. Destroys enemy shield. Destroys monster nests.
-2110992238|63cd93a5||Releases a cloud of dimeritium slivers that block magic and monsters' magic abilities.
-2110992239|3ed03538||Duration out of cloud
-2110992240|874e9f87||Grants sight in total darkness. Extended duration.
+2110992234|f8b46c38||Zwiększa efektywność ataku względem Reliktów. [*]
+2110992235|874e9f88||Umożliwia widzenie w całkowitej ciemności. Uodparnia na hipnozę. Wydłużony czas działania. [*]
+2110992237|fe608837||Rani odłamkami wszystkich przeciwników w zasięgu rażenia. Zadaje obrażenia od ognia. Wzmocnione działanie. Niszczy tarcze przeciwników. Niszczy gniazda potworów. [*]
+2110992238|63cd93a5||Uwalnia obłok opiłków dwimerytu, który blokuje magię i magiczne zdolności potworów. [*]
+2110992239|3ed03538||Czas działania po opuszczeniu obłoku gazu. [*]
+2110992240|874e9f87||Umożliwia widzenie w całkowitej ciemności. Wydłużony czas działania. [*]
 2110992241|e71d7c8e||After successful strong attack all available Stamina is consumed to additionally reduce victim's vitality by 5%. If Stamina spent is less than 100%, effect is proportionally decreased.
 2110992242|fc921527||Applies a random Place of Power effect at dusk and dawn. Lasts longer than other mutagen decoctions.
 2110992243|e71d7c93||Increases Sign Intensity during bad weather.
