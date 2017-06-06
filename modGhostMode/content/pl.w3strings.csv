@@ -92,7 +92,7 @@
 2110992103|1f70c020||Młynek - Piruet ofensywny pozwalający uderzyć otaczających przeciwników. Obrażenia zmniejszone o $S$%. Podtrzymanie ataku wymaga użycia Wytrzymałości oraz Adrenaliny. W czasie działania otrzymywane obrażenia zmniejszone są o $S$%. [*]
 2110992104|064143d3||Młynek - Piruet ofensywny pozwalający uderzyć otaczających przeciwników. Obrażenia zmniejszone o $S$%. Podtrzymanie ataku wymaga użycia Wytrzymałości oraz Adrenaliny. W czasie działania otrzymywane obrażenia zmniejszone są o $S$%. [*]
 2110992105|6f2a6f0f||Przyrost Adrenaliny [*]
-2110992106|739e1e2c||Silny Atak zwiększa obrażenia Ataku Szybkiego przez $S$ sekund, o $S$% za każdy element pancerza. Szybki Atak vice versa. Aktualny efekt: $S$%. [*]
+2110992106|739e1e2c||Silny Atak siłę Ataku Szybkiego przez $S$ sekund, o $S$% za każdy element pancerza. Szybki Atak vice versa. Aktualny efekt: $S$%. [*]
 2110992107|8ed43e3e||Każdy element pancerza zmniejsza koszt Wytrzymałości przy rzucania Znaków o $S$%. Aktualny efekt: $S$%. [*]
 2110992108|8ed43e3f||Obszar połapki Znaku Yrden jest większy o $S$%. Obecność Bohatera w obszarze działania, zwiększa Moc Znaku o $S$%, oraz odporność na obrażenia o $S$%. [*]
 2110992109|739e1e2d||Atak krytyczny bronią białą zwiększa wzrost adrenaliny dwukrotnie. [*]
@@ -102,27 +102,27 @@
 2110992113|c1e6a9cc||Kiedy Żywotność spadnie do 0, użyty zostanie punkt Adrenaliny by osłonić przed śmiercią, sprawić bohatera nieśmiertelnym oraz nadać zwiększoną regenerację Żywotności przez $S$s. Przywraca $S$% Żywotności za każdy punkt Adrenaliny (max $S$%). Może być użyte nie częściej niż $S$s. [*]
 2110992114|c1e6a9cb||Kiedy Żywotność spadnie do 0, użyty zostanie punkt Adrenaliny by osłonić przed śmiercią, sprawić bohatera nieśmiertelnym oraz nadać zwiększoną regenerację Żywotności przez $S$s. Przywraca $S$% Żywotności za każdy punkt Adrenaliny (max $S$%). Może być użyte nie częściej niż $S$s. [*]
 2110992115|cea74418||Kiedy Żywotność spadnie do 0, użyty zostanie punkt Adrenaliny by osłonić przed śmiercią, sprawić bohatera nieśmiertelnym oraz nadać zwiększoną regenerację Żywotności przez $S$s. Przywraca $S$% Żywotności za każdy punkt Adrenaliny (max $S$%). Może być użyte nie częściej niż $S$s. [*]
-2110992116|cea74430||Zwiększone obrażenia Szybkiego Ataku o $I$%. [*]
-2110992117|1f70c023||Zwiększone obrażenia Silnego Ataku o $I$%. [*]
+2110992116|cea74430||Zwiększone siła Szybkiego Ataku o $I$%. [*]
+2110992117|1f70c023||Zwiększone siła Silnego Ataku o $I$%. [*]
 2110992118|cea74417||Szybki Atak - zwiększona o $I$% szansa na atak krytyczny, oraz obrażenia krytyczne o $I$%. [*]
 2110992119|1f70c027||Silny Atak - zwiększona o $I$% szansa na atak krytyczny, oraz obrażenia krytyczne o $I$%. [*]
-2110992120|c1e68bc4||Perfekcyjne parowanie odbija pociski, zwiększa obrażenia o $I$%. [*]
-2110992121|c1e68f84||Kontratak zwiększa obrażenia następnego ciosu o $I$%. Każdy Punkt Adrenaliny zwiększa szansę na Powalenie o $I$% (max $I$%, Adrenalina jest wykorzystana w przypadku powodzenia). [*]
-2110992122|c1e68f85||Kontratak zwiększa obrażenia następnego ciosu o $I$%. Każdy Punkt Adrenaliny zwiększa szansę na Powalenie o $I$% (max $I$%, Adrenalina jest wykorzystana w przypadku powodzenia). Zwiększa szansę na atak krytyczny o $I$%. [*]
-2110992123|cea74411||Kontratak zwiększa obrażenia następnego ciosu o $I$%. [*]
+2110992120|c1e68bc4||Perfekcyjne parowanie odbija pociski, zwiększa siłę ataku o $I$%. [*]
+2110992121|c1e68f84||Kontratak zwiększa siłę ataku następnego ciosu o $I$%. Każdy Punkt Adrenaliny zwiększa szansę na Powalenie o $I$% (max $I$%, Adrenalina jest wykorzystana w przypadku powodzenia). [*]
+2110992122|c1e68f85||Kontratak zwiększa siłę ataku następnego ciosu o $I$%. Każdy Punkt Adrenaliny zwiększa szansę na Powalenie o $I$% (max $I$%, Adrenalina jest wykorzystana w przypadku powodzenia). Zwiększa szansę na atak krytyczny o $I$%. [*]
+2110992123|cea74411||Kontratak zwiększa siłę ataku następnego ciosu o $I$%. [*]
 2110992124|cf2b2da2||Tarcza energetyczna, która absorbuje $I$ punktów obrażeń. Ilość absorbowanych obrażeń rośnie wraz z Mocą Znaku (aktualnie: $I$). <br>Czas działania: $I$s. [*]
 2110992125|163a8e77||Zadanie obrażeń Znakiem Igni zmniejsza również permanentnie pancerz przeciwników o $S$%. Efekt skaluje się wraz z Mocą Znaków aż do $S$%. [*]
-2110992126|cf2b2da0||Wybuch ognia powodujący $I$ punktów obrażeń, z $I$% szansą na Podpalenie. Efekt skaluje się wraz z Mocą Znaków, aktualne obrażenia: $I$. [*]
-2110992127|163a8e71||Alternatywny tryb Znaku:<br>Nieprzerwany strumień ognia, który Podpala, oraz powoduje $I$ obrażeń na sekundę. Efekt skaluje się wraz z Mocą Znaków, aktualne obrażenia $S$%. Używa $I$ Punktów Wytrzymałości na sekundę. [*]
-2110992128|71d0c1e4||Alternatywny tryb Znaku:<br>Nieprzerwany strumień ognia, który Podpala, oraz powoduje $I$ obrażeń na sekundę. Efekt skaluje się wraz z Mocą Znaków, aktualne obrażenia $S$%. Używa $I$ Punktów Wytrzymałości na sekundę. [*]
-2110992129|71d0c1e5||Alternatywny tryb Znaku:<br>Nieprzerwany strumień ognia, który Podpala, oraz powoduje $I$ obrażeń na sekundę. Efekt skaluje się wraz z Mocą Znaków, aktualne obrażenia $S$%. Używa $I$ Punktów Wytrzymałości na sekundę. [*]
-2110992130|163a8e75||Zwiększa moc Znaku Aard do $I$ punktów. Efekt skaluje się wraz z Mocą Znaków, aktualne obrażenia $I$. [*]
+2110992126|cf2b2da0||Wybuch ognia powodujący $I$ punktów obrażeń, z $I$% szansą na Podpalenie. Efekt skaluje się wraz z Mocą Znaków, aktualna siła ataku: $I$. [*]
+2110992127|163a8e71||Alternatywny tryb Znaku:<br>Nieprzerwany strumień ognia, który Podpala, oraz powoduje $I$ obrażeń na sekundę. Efekt skaluje się wraz z Mocą Znaków, aktualna siła ataku: $S$%. Używa $I$ Punktów Wytrzymałości na sekundę. [*]
+2110992128|71d0c1e4||Alternatywny tryb Znaku:<br>Nieprzerwany strumień ognia, który Podpala, oraz powoduje $I$ obrażeń na sekundę. Efekt skaluje się wraz z Mocą Znaków, aktualna siła ataku: $S$%. Używa $I$ Punktów Wytrzymałości na sekundę. [*]
+2110992129|71d0c1e5||Alternatywny tryb Znaku:<br>Nieprzerwany strumień ognia, który Podpala, oraz powoduje $I$ obrażeń na sekundę. Efekt skaluje się wraz z Mocą Znaków, aktualna siła ataku: $S$%. Używa $I$ Punktów Wytrzymałości na sekundę. [*]
+2110992130|163a8e75||Zwiększa moc Znaku Aard do $I$ punktów. Efekt skaluje się wraz z Mocą Znaków, aktualna siła ataku: $I$. [*]
 2110992131|b3c8ebb8||Magiczna Pułapka [*]
 2110992132|b1173fc0||Dodaje $I$% do czasu działania glifu Yrden i Magicznej pułapki, oraz $I$ do ilości pocisków pułapki. [*]
 2110992133|ab0515e8||Dodaje $I$% do czasu działania glifu Yrden i Magicznej pułapki, oraz $I$ do ilości pocisków pułapki. Zwiększa o 1 maksymalną liczbę glifów Yrden. [*]
 2110992134|b1173fc1||Przeciwnicy w obszarze pułapki tracą $S$% punktów Żywotności lub Esencji na sekundę. [*]
-2110992135|c84666b6||Wyczerpana tarcza Quen odpycha i rani przeciwników za $I$ obrażeń. Obrażenia zależą od Mocy Znaku (aktualne obrażenia: $I$). [*]
-2110992136|c84666b7||Wyczerpana tarcza Quen odpycha z szansą na Powalenie i rani przeciwników za $I$ obrażeń. Obrażenia zależą od Mocy Znaku (aktualne obrażenia: $I$). [*]
+2110992135|c84666b6||Wyczerpana tarcza Quen odpycha i rani przeciwników za $I$ obrażeń. Siła ataku zależy od Mocy Znaku (aktualna siła ataku: $I$). [*]
+2110992136|c84666b7||Wyczerpana tarcza Quen odpycha z szansą na Powalenie i rani przeciwników za $I$ obrażeń. Siła ataku zależy od Mocy Znaku (aktualna siła ataku: $I$). [*]
 2110992137|163a8e73||Alternatywny tryb Znaku:<br>Pozwala podtrzymać aktywną tarczę absorbującą o $I$% więcej obrażeń, zużywa $I$ Punktów Wytrzymałości na sekundę. Zablokowanie ataku zużywa wytrzymałość o wartości równej pochłoniętym obrażeniom. Odnawia Żywotność równą $I$% pochłoniętych obrażeń. [*]
 2110992138|71d0c966||Alternatywny tryb Znaku:<br>Pozwala podtrzymać aktywną tarczę absorbującą o $I$% więcej obrażeń, zużywa $I$ Punktów Wytrzymałości na sekundę. Zablokowanie ataku zużywa wytrzymałość o wartości równej pochłoniętym obrażeniom. Odnawia Żywotność równą $I$% pochłoniętych obrażeń. [*]
 2110992139|71d0c967||Alternatywny tryb Znaku:<br>Pozwala podtrzymać aktywną tarczę absorbującą o $I$% więcej obrażeń, bez zużywania wytrzymałości. Zablokowanie ataku zużywa wytrzymałość o wartości równej pochłoniętym obrażeniom. Odnawia Żywotność równą $I$% pochłoniętych obrażeń. [*]
@@ -131,7 +131,7 @@
 2110992142|1517d64d||Gdy wiedźmin jest zatruty eliksirami, podczas kontrataku przeciwnika następuje spowolnienie czasu o $S$%. Czas trwania: $S$ sekund. [*]
 2110992143|1517d64e||Gdy wiedźmin jest zatruty eliksirami, podczas kontrataku przeciwnika następuje spowolnienie czasu o $S$%. Czas trwania: $S$ sekund. [*]
 2110992145|329005f0||Pozwala wykonywać silniejsze ataki bronią, dodając $I$% do obrażeń, oraz $I$ do Przebicia Pancerza. [*]
-2110992148|bab1daf5||Każdy Punkt Zatrucia zwiększa obrażenia bronią oraz Moc Znaków o $S$% (maks $S$%). [*]
+2110992148|bab1daf5||Każdy Punkt Zatrucia zwiększa siłę ataku bronią oraz Moc Znaków o $S$% (max. $S$%). [*]
 2110992149|c3f5389c||Signs can deal critical hits. Their critical hit chance and power increase with Sign Intensity (current critical hit chance -  $S$%, critical hit power - $S$%). Opponents killed by critical hits from Signs explode.
 2110992150|c3f538a0||When the Aard Sign is cast, it additionally has a $S$% chance of freezing opponents. Opponents knocked down and frozen simultaneously die immediately. Opponents who are not frozen are dealt an additional $S$ damage. Damage scales with Sign intensity. Current damage: $S$.
 2110992151|cf2b2da1||Magic trap that slows enemies down by $S$% (scales with Sign Intensity) inside its area of effect. Trap duration: $S$s.
@@ -139,9 +139,9 @@
 2110992153|c32e766a||Premia do obrażeń krytycznych [*]
 2110992154|28838f82||Przebicie Pancerza [*]
 2110992155|f35fcb73||Przebicie Pancerza [*]
-2110992156|0147942a||Regeneracja żywotności poza walką [*]
-2110992157|a83467f6||Regeneracja żywotności w trakcie walki [*]
-2110992158|c95c6e28||Przy pełnej żywotności, szybkość regeneracji żywotności zwiększa obrażenia miecza lub znaków (do +$I$%). [*]
+2110992156|0147942a||Regeneracja Żywotności poza walką [*]
+2110992157|a83467f6||Regeneracja Żywotności w trakcie walki [*]
+2110992158|c95c6e28||Przy pełnej Żywotności, szybkość regeneracji Żywotności zwiększa siłę ataku broni i Znaków (do +$I$%). [*]
 2110992159|ccc61f66||Jedzenie regeneruje żywotność o $I$% dłużej, ale wszystko smakuje jak pierogi. [*]
 2110992160|22156cd6||Gdy magiczna pułapka Yrden trafi przeciwnika, w miejscu, gdzie ten stoi, tworzy się glif Yrden. [*]
 2110992161|4a0f3f56||Obrażenia znaku [*]
@@ -149,7 +149,7 @@
 2110992163|7968d6e0||Zamraża przeciwników. Ciosy zadane zamrożonym przeciwnikom zadają dodatkowe obrażenia. Wydłużony czas działania. [*]
 2110992164|b02a28c2||Zwiększenie obrażeń [*]
 2110992165|9e58d1f5||Zwiększa Moc Znaków. Wydłużony czas działania. Czas działania efektów krytyczych Znaków dłuższy o 33%. [*]
-2110992166|329005f3||Ciosy zadawane podczas walki wręcz generują adrenalinę. Każdy Punkt Adrenaliny zwiększa obrażenia zadane bronią o $I$%. [*]
+2110992166|329005f3||Ciosy zadawane podczas walki wręcz generują adrenalinę. Każdy Punkt Adrenaliny zwiększa siłę ataku bronią o $I$%. [*]
 2110992167|d11e5fa2||Szybki Atak - obrażenia krytyczne [*]
 2110992168|3018409d||Silny Atak - obrażenia krytyczne [*]
 2110992169|25746309||Geralt jest teraz ogolony na czysto [*]
@@ -225,42 +225,42 @@
 2110992240|874e9f87||Umożliwia widzenie w całkowitej ciemności. Wydłużony czas działania. [*]
 2110992241|e71d7c8e||After successful strong attack all available Stamina is consumed to additionally reduce victim's vitality by 5%. If Stamina spent is less than 100%, effect is proportionally decreased.
 2110992242|fc921527||Applies a random Place of Power effect at dusk and dawn. Lasts longer than other mutagen decoctions.
-2110992243|e71d7c93||Increases Sign Intensity during bad weather.
+2110992243|e71d7c93||Zwiększa Moc Znaków kiedy panuje zła pogoda. [*]
 2110992244|fc921524||Increases resistance to bleeding, burning and poison effects applied during combat. The longer these effects last, the bigger is resistance bonus.
-2110992245|fc921525||Performing actions that consume Stamina regenerates Vitality proportional to Stamina spent.
-2110992246|fc92152b||Taking damage increases damage resistance for the remainder of the fight (up to 20%).
-2110992247|fc921505||Each blow landed increases Attack Power (up to 100%) until either the fight ends or damage (other than that from potion Toxicity) is taken.
-2110992248|fc921509||Attack Power grows over the course of a fight (up to 30%).
-2110992249|fc921526||Each Sign cast increases Stamina regeneration (up to 20) for the remainder of the fight.
-2110992250|8cb0734c||Random scaling: lower bound (relative to player level)
-2110992251|f958bbfa||Random scaling: upper bound (relative to player level)
-2110992252|beb0cec9||Random
-2110992253|09d75838||Disable quest levels
-2110992254|82df1e7b||Do not upscale animals
-2110992255|940edcea||Random no downscaling
-2110992256|256ad6b4||Contains useless information.
-2110992257|2b555f18||Crafting components
-2110992258|25691b0a||Can be sold to merchants or dismantled.
-2110992259|b91d9859||Can be sold to merchants.
-2110992260|7fd2ce90||Can be sold for a significant sum or dismantled.
-2110992261|4e7c5cf1||Stash menu
-2110992262|cbb62004||Undying cooldown
-2110992263|80038142||Stamina regeneration modifier
-2110992264|2d9ff292||Chance to keep balance when hit
-2110992265|2eaeb09b||Chance to bounce an arrow
-2110992266|cb404984||Master weaponsmith tools
-2110992267|29e78e8a||Smithing tools used by master blacksmith. Permanently increase weapon damage.
-2110992268|fcf7e421||Master armorsmith tools
-2110992269|ad70e65b||Smithing tools used by master armorer. Permanently increase armor value.
-2110992270|b5a7442f||Quest experience modifier
-2110992271|773c6a77||Combat experience modifier
-2110992272|7641d6c5||Knockdown chance
-2110992273|b1173fc2||Increases heavy knockdown chance by $I$%.
-2110992274|163a8e76||Adds $I$ points to Fire damage and $I$ points to Firestream damage per sec.
-2110992275|b1173fc6||Adds $I$ points to Magic Turret damage.
-2110992276|b1173fc5||Adds $I$ points to shield damage absorption.
-2110992277|9246181a||Confusion duration
-2110992278|b72fae71||Control duration
+2110992245|fc921525||Wykonywanie akcji zużywających Wytrzymałość regeneruje proporcjonalnie Żywotność. [*] 
+2110992246|fc92152b||Otrzymywane rany zwiększają odporność na obrażenia na czas trwania danej walki (max. 20%).
+2110992247|fc921505||Każde udane trafienie zwiększa Siłę Ataku (do max. 100%), do czasu zakończenia walki lub otrzymania obrażeń innych niż obrażenia od zatrucia eliksirami. [*]
+2110992248|fc921509||Siła Ataku rośnie wraz z czasem trwania walki (do max. 30%). [*]
+2110992249|fc921526||Każde użycie Znaku zwiększa regenerację Wytrzymałości (do max. 20) na czas trwania danej walki. [*]
+2110992250|8cb0734c||Losowe skalowanie: zaokrąglaj w dół (w stosunku do poziomu gracza) [*]
+2110992251|f958bbfa||Losowe skalowanie: zaokrąglaj w górę (w stosunku do poziomu gracza) [*]
+2110992252|beb0cec9||Losowe [*]
+2110992253|09d75838||Zadania nie wymagają minimalnego poziomu [*]
+2110992254|82df1e7b||Nie skaluj poziomu zwierząt [*]
+2110992255|940edcea||Losowe, ale nie zmniejszaj poziomu [*]
+2110992256|256ad6b4||Nie zawiera nic ciekawego [*]
+2110992257|2b555f18||Składniki rzemieślnicze [*]
+2110992258|25691b0a||Rupieć. Może zostać odsprzedany handlarzom lub rozłożony na składniki rzemieślnicze. [*]
+2110992259|b91d9859||Rupieć. Może zostać odsprzedany handlarzom. [*]
+2110992260|7fd2ce90||Przedmiot wartościowy. Może zostać odsprzedany za dobrą cenę lub rozłożony na składniki rzemieślnicze. [*]
+2110992261|4e7c5cf1||Menu schowka [*]
+2110992262|cbb62004||Nieumarły - można użyć co [*]
+2110992263|80038142||Mnożnik regeneracji Wytrzymałości [*]
+2110992264|2d9ff292||Szansa na utrzymanie równowagi po otrzymaniu uderzenia [*]
+2110992265|2eaeb09b||Szansa na odbicie strzały [*]
+2110992266|cb404984||Mistrzowskie narzędzia kowalskie [*]
+2110992267|29e78e8a||Narzędzia używane przez najlepszych kowali. Na stałe zwiększają siłę ataku broni. [*]
+2110992268|fcf7e421||Mistrzowskie narzędzia płatnerskie. [*]
+2110992269|ad70e65b||Narzędzia używane przez najlepszych płatnerzy. Na stałe zwiększają ilość punktów pancerza. [*]
+2110992270|b5a7442f||Mnożnik doświadczenia za zadania. [*]
+2110992271|773c6a77||Mnożnik doświadczenia za walkę. [*]
+2110992272|7641d6c5||Szansa na Poważne Powalenie [*]
+2110992273|b1173fc2||Zwiększa szanę na Poważne Powalenie o $I$%. [*]
+2110992274|163a8e76||Dodaje Strumieniowi Ognia $I$ punktów obrażeń oraz $I$ punktów do obrażeń na sekundę. [*]
+2110992275|b1173fc6||Dodaje Magicznej Pułapce $I$ punktów dla siły ataku pocisku. [*]
+2110992276|b1173fc5||Tarcza Quen absorbuje o $I$ więcej obrażeń. [*]
+2110992277|9246181a||Czas trwania Oszołomienia [*]
+2110992278|b72fae71||Czas Kontrolowania  [*]
 2110992279|163a8e70||Alternate Sign Mode:<br>Aard strikes all opponents in range. Sign intensity is $I$% lower for this mode.
 2110992280|71d0be23||Alternate Sign Mode:<br>Aard strikes all opponents in range. Sign intensity is $I$% lower for this mode.
 2110992281|71d0be24||Alternate Sign Mode:<br>Aard strikes all opponents in range. Sign intensity is no longer lowered for this mode.
@@ -272,22 +272,22 @@
 2110992288|163a8e74||Alternate Sign Mode:<br>Targeted enemy becomes an ally for $I$s and gains $I$% attack power bonus. Effect duration scales with Sign intensity. Current duration: $I$s.
 2110992289|71d0cd27||Alternate Sign Mode:<br>Targeted enemy becomes an ally for $I$s and gains $I$% attack power bonus. Effect duration scales with Sign intensity. Current duration: $I$s.
 2110992290|71d0cd28||Alternate Sign Mode:<br>Targeted enemy becomes an ally for $I$s and gains $I$% attack power bonus. Effect duration scales with Sign intensity. Current duration: $I$s.
-2110992291|483c9092||Damage dealt charges the sword increasing its critical hit power by $S$%. Charge decays over time and on damage taken. A fully-charged sword increases critical hit chance by $S$%.
-2110992292|1f5adb4f||Killing a foe with a fully loaded sword will expend its charge to permanently increase the weapon's damage. When bonus damage exceeds its maximum, sword levels up. Damage is increased by: $S$ (to a maximum of 10).
-2110992293|0516c455||Heavy knockdown chance
-2110992294|f76f46ed||Killing an enemy restores $I$% of your Stamina.
-2110992295|fad8f82b||Killing an enemy gives $F$ to $F$ Adrenaline Points.
-2110992296|ed2f3195||Gives a $I$% chance of returning $I$% of damage received to the attacker.
-2110992299|f2e69faf||Dealing damage with fast attacks charges weapon with energy. When its color changes to red, a strong attack will release this energy in an extra powerful strike, at the cost of part of the attacker's Vitality.
+2110992291|483c9092||Obrażenia zadawane mieczem ładują go energią, dodając $S$% do siły ataku krytycznego. Ładunek tracony jest wraz z upływem czasu oraz otrzymując obrażenia. W pełni naładowany miecz dodaje szansę na atak krytyczny o $S$%. [*]
+2110992292|1f5adb4f||Zabicie wroga w pełni naładowanym mieczem rozładowuje miecz i trwale zwiększa obrażenia broni. Jeżeli dodatkowe obrażenia przekroczą max. dla aktualnego poziomu miecza, zostanie on zwiększony. Obrażenia są zwiększane o: $S$ (max. 10). [*]
+2110992293|0516c455||Znaczna szansa na Powalenie. [*]
+2110992294|f76f46ed||Zabicie przeciwnika odnawia $I$% Wytrzymałości. [*]
+2110992295|fad8f82b||Zabicie przeciwnika dodaje od $F$ do $F$ punktów Adrenaliny [*]
+2110992296|ed2f3195||Zapewnia $I$% szansy na odbicie $I$% otrzymanych obrażeń atakującemu. [*]
+2110992299|f2e69faf||Zadawanie obrażeń Szybkimi Atakami ładuje broń energią, kiedy nabierze czerwoną poświatę, Silny Atak uwolni nagromadzoną energię w potężnym uderzeniu w zamian za część Żywotności Geralta. [*]
 2110992300|ba719645||Stała ilość doświadczenia za zadania oraz walkę [*]
-2110992301|bdf0ea49||Człekokształtne [*]
+2110992301|bdf0ea49||Humanoidy [*]
 2110992302|bafca59c||Wojownicy Dzikiego Gonu [*]
 2110992303|82a5fd81||Suma [*]
 2110992304|98357039||Zwierzęta [*]
 2110992305|4153fdc1||Potwory [*]
 2110992306|c8dde11f||Zabójstwa per typ [*]
 2110992307|d8d52cd1||Ilość zabójstw [*]
-2110992308|ba738dce||Człekokształtne [*]
+2110992308|ba738dce||Humanoidy [*]
 2110992309|8e8b5e03||Unikatowe [*]
 2110992310|1f70c026||Zwiększa szansę na atak krytyczny Kuszą o $I$%, oraz obrażenia ataku krytycznego Kuszą o $I$%. [*]
 2110992311|e71d7c8c||Zwiększa odporności na każdy typ obrażeń o 15%, jeżeli obciążenie wynosi 60 lub mniej, efekt zmniejsza się wraz ze wzrostem obciążenia. [*]
